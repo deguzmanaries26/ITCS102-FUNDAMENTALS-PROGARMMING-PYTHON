@@ -8,3 +8,23 @@ activity2 -- answer sum Q's (https://github.com/deguzmanaries26/ITCS102-FUNDAMEN
 activity3 -- matrix daw (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/96309992ee4bb88730e3aa7aadc5def1db95d688/activity03.py)
 
 activity4 -- si len (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/96309992ee4bb88730e3aa7aadc5def1db95d688/activity4.py)
+
+activity5 -- smthn add (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/activity5.py)
+
+activity6 -- mala calcu (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/activity6.py)
+
+activity7 -- 4 horsemen of math (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/activity7.py)
+
+activity8 -- balance daw (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/activity8.py)
+
+activity9 -- log in keme (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/activity9.py)
+
+activity10 -- si if else (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/activity10.py)
+
+code_challenge1 -- Diamiond (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge.py)
+
+code_challenge2 -- currency (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge2.py)
+
+code_challenge3 -- uname&pwd (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge3.py)
+
+code_challenge4 -- even & odd (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge4.py)
