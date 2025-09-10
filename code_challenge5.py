@@ -22,7 +22,7 @@ if genre == "action":
 		if year == 2010:
 			print("I recommend Black Clover (350+ ch, 2015–ongoing)")
 #Sci-fi
-if genre == "sci-fi":
+elif genre == "sci-fi":
 	length = input("How long?(Short/Medium/Long): ").lower()
 	if length == 'short':
 		year = eval(input("Which decade?(2000/2010): "))
@@ -43,7 +43,7 @@ if genre == "sci-fi":
 		if year == 2010:
 			print("I recommend Dr. Stone (232 ch, 2017–2022)")
 #romcom
-if genre == "romcom":
+elif genre == "romcom":
 	length = input("How long?(Short/Medium/Long): ").lower()
 	if length == 'short':
 		year = eval(input("Which decade?(2000/2010): "))
@@ -65,6 +65,7 @@ if genre == "romcom":
 			print("I recommend Domestic Girlfriend (276 ch, 2014–2020, dramatic romcom)")
 else:
 	print("Sorry, I can't find what you're looking for.")
+
 
 
 
