@@ -28,3 +28,5 @@ code_challenge2 -- currency (https://github.com/deguzmanaries26/ITCS102-FUNDAMEN
 code_challenge3 -- uname&pwd (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge3.py)
 
 code_challenge4 -- even & odd (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge4.py)
+
+code_challenge5 -- manga (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8ec38a8f3764c502aba80d98ef850718c0b7da4a/code_challenge5.py)
