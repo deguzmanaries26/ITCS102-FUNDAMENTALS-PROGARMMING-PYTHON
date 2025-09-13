@@ -21,6 +21,14 @@ activity9 -- log in keme (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTAL
 
 activity10 -- si if else (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/activity10.py)
 
+activity11 -- temperature (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/c56e721d6aaf5105a44ebf9bda9047b23217678e/activity11.py)
+
+activity12 -- for in (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/c56e721d6aaf5105a44ebf9bda9047b23217678e/activity12.py)
+
+activity13 -- for eval (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/c56e721d6aaf5105a44ebf9bda9047b23217678e/activity13.py)
+
+activity14 -- for descending (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/c56e721d6aaf5105a44ebf9bda9047b23217678e/activity14.py)
+
 code_challenge1 -- Diamiond (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge.py)
 
 code_challenge2 -- currency (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge2.py)
