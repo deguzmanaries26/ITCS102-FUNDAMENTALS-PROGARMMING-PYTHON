@@ -1,8 +1,0 @@
-print("MULTIPLICATION TABLE MAKER")
-number = int(input("Input a number: "))
-print(number)
-
-print("\nMultiplication Table for", number, ":")
-for a in range(1,11):
-  num = number * a
-  print(number, "x", a, "=", num)
