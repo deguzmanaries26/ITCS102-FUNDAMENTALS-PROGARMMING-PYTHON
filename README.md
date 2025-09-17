@@ -38,3 +38,11 @@ code_challenge3 -- uname&pwd (https://github.com/deguzmanaries26/ITCS102-FUNDAME
 code_challenge4 -- even & odd (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge4.py)
 
 code_challenge5 -- manga (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8ec38a8f3764c502aba80d98ef850718c0b7da4a/code_challenge5.py)
+
+code_challenge6 -- factorial (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8543519143e53c07f728dffe3eea39fc35d725d0/code_challemge6.py)
+
+code_challenge7 -- ODD addition (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8543519143e53c07f728dffe3eea39fc35d725d0/code_challenge7.py)
+
+code_challenge8 -- multiplication table (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/5032b0515497c61cc057db63de6a1b25a84ce1b5/code_challenge8%2Cpy)
+
+code_challenge9 -- countdown (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/5032b0515497c61cc057db63de6a1b25a84ce1b5/code_challenge9.py)
