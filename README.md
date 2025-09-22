@@ -29,6 +29,12 @@ activity13 -- for eval (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-
 
 activity14 -- for descending (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/c56e721d6aaf5105a44ebf9bda9047b23217678e/activity14.py)
 
+activity15 -- don't know (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/activity15.py)
+
+activity16 -- don't know din (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/activity16.py)
+
+activity18 -- idk (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/activity18.py)
+
 code_challenge1 -- Diamiond (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge.py)
 
 code_challenge2 -- currency (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge2.py)
@@ -46,3 +52,7 @@ code_challenge7 -- ODD addition (https://github.com/deguzmanaries26/ITCS102-FUND
 code_challenge8 -- multiplication table (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/5032b0515497c61cc057db63de6a1b25a84ce1b5/code_challenge8%2Cpy)
 
 code_challenge9 -- countdown (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/5032b0515497c61cc057db63de6a1b25a84ce1b5/code_challenge9.py)
+
+code_challenge10 -- triangle (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/code_challenge10.py)
+
+code_challenge11 -- diamond* (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/code_challenge11.py)
