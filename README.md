@@ -33,6 +33,8 @@ activity15 -- don't know (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTAL
 
 activity16 -- don't know din (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/activity16.py)
 
+activity17 -- yun yon (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/13ce61af3797a879dc8e5adcb5265680b7c12787/activity17.py)
+
 activity18 -- idk (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/activity18.py)
 
 code_challenge1 -- Diamiond (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge.py)
@@ -56,3 +58,7 @@ code_challenge9 -- countdown (https://github.com/deguzmanaries26/ITCS102-FUNDAME
 code_challenge10 -- triangle (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/code_challenge10.py)
 
 code_challenge11 -- diamond* (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/code_challenge11.py)
+
+code_challenge12 -- num pyra (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/13ce61af3797a879dc8e5adcb5265680b7c12787/code_challenge12.py)
+
+code_challenge13 -- christmas tree (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/13ce61af3797a879dc8e5adcb5265680b7c12787/code_challenge13.py)
