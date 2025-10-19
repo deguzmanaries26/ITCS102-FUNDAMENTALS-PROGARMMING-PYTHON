@@ -37,6 +37,14 @@ activity17 -- yun yon (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-P
 
 activity18 -- idk (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9c0f6c3fe9e3331fe8ad7aedb6058598a9cfee6e/activity18.py)
 
+activity19 -- dk (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/807b5dec8c3d103599a9bd905a3b9924909142c4/activity19.py)
+
+activity20 -- idk (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/807b5dec8c3d103599a9bd905a3b9924909142c4/activity20.py)
+
+actvity21 -- clothes (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/807b5dec8c3d103599a9bd905a3b9924909142c4/activity21.py)
+
+actvity22 -- guess game (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/807b5dec8c3d103599a9bd905a3b9924909142c4/activity22.py)
+
 code_challenge1 -- Diamiond (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge.py)
 
 code_challenge2 -- currency (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge2.py)
@@ -62,3 +70,5 @@ code_challenge11 -- diamond* (https://github.com/deguzmanaries26/ITCS102-FUNDAME
 code_challenge12 -- num pyra (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/13ce61af3797a879dc8e5adcb5265680b7c12787/code_challenge12.py)
 
 code_challenge13 -- christmas tree (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/13ce61af3797a879dc8e5adcb5265680b7c12787/code_challenge13.py)
+
+code_challenge14 -- odd num compiler (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/807b5dec8c3d103599a9bd905a3b9924909142c4/code_challenge14.py)
