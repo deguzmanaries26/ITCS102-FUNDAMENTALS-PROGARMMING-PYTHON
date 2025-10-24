@@ -72,3 +72,5 @@ code_challenge12 -- num pyra (https://github.com/deguzmanaries26/ITCS102-FUNDAME
 code_challenge13 -- christmas tree (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/13ce61af3797a879dc8e5adcb5265680b7c12787/code_challenge13.py)
 
 code_challenge14 -- odd num compiler (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/807b5dec8c3d103599a9bd905a3b9924909142c4/code_challenge14.py)
+
+code_challenge15 -- anime list (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/0ba401e0078401288103f9c27bdbd82506457983/code_challenge15.py)
