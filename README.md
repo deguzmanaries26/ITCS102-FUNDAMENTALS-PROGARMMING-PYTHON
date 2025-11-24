@@ -45,19 +45,19 @@ actvity21 -- clothes (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PR
 
 actvity22 -- guess game (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/807b5dec8c3d103599a9bd905a3b9924909142c4/activity22.py)
 
-activity23 -- list (activity23.py)
+activity23 -- list (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/4380ea8248bbc4ea23fec6b52012edc6ea795ec9/activity23.py)
 
-activity24 -- def greeter (activity24.py)
+activity24 -- def greeter (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/4380ea8248bbc4ea23fec6b52012edc6ea795ec9/activity24.py)
 
-activity24_1 -- import greeter (activity24_1.py)
+activity24_1 -- import greeter (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/4380ea8248bbc4ea23fec6b52012edc6ea795ec9/activity24_1.py)
 
-activity25 -- using functions (activity25.py)
+activity25 -- using functions (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/4380ea8248bbc4ea23fec6b52012edc6ea795ec9/activity25.py)
 
-activity25_1 -- functions used (acitvity25_1.py)
+activity25_1 -- functions used (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/4380ea8248bbc4ea23fec6b52012edc6ea795ec9/acitvity25_1.py)
 
-activity26 -- dictionary (activity26.py)
+activity26 -- dictionary (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/4380ea8248bbc4ea23fec6b52012edc6ea795ec9/activity26.py)
 
-activity27 -- add data 2 dict (activity27.py)
+activity27 -- add data 2 dict (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/4380ea8248bbc4ea23fec6b52012edc6ea795ec9/activity27.py)
 
 code_challenge1 -- Diamiond (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/8abf4129c4a3bb58ffaed5b1b7742ef2b81b9a6d/code_challenge.py)
 
@@ -89,4 +89,4 @@ code_challenge14 -- odd num compiler (https://github.com/deguzmanaries26/ITCS102
 
 code_challenge15 -- anime list (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/0ba401e0078401288103f9c27bdbd82506457983/code_challenge15.py)
 
-code_challenge16 -- SIS (codechallenge16.py)
+code_challenge16 -- SIS (https://github.com/deguzmanaries26/ITCS102-FUNDAMENTALS-PROGARMMING-PYTHON/blob/9598be3ed7539fa7ed2bbdb39fe904979ef2a151/codechallenge16.py)
